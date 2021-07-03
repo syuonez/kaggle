@@ -1,4 +1,4 @@
-# kaggleのコード一部
+# kaggle_code
 
 ・kaggle_hpa.ipynb
 
